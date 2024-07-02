@@ -17,8 +17,7 @@ Notas de Desarrollo
 Asegúrate de que la versión de Gradle de Android sea compatible. Si encuentras problemas con el archivo Gradle, verifica la configuración de tu entorno de Android.
 Debido a limitaciones de tiempo, no se implementaron todas las características de la aplicación 'Fortnightly'. Funcionalidades como los botones de menú y la funcionalidad de búsqueda no están incluidos.
 Se aprecia cualquier retroalimentación y sugerencia de mejora. Este proyecto está abierto a optimizaciones y mejoras.
-Capturas de Pantalla
-[Inserta aquí capturas de pantalla de tu aplicación, mostrando la pantalla principal y la pantalla de artículo.]
+
 
 Inicio Rápido
 Para ejecutar este proyecto localmente, sigue estos pasos:
